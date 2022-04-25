@@ -1,0 +1,3 @@
+db.alunos.find()
+{ "_id" : ObjectId ("56cb0002b6d75ec12f75d3b5"), "nome" : "Felipe", "data_nascimento" : ISO Date("1994-03-26T03:00:00Z") }
+{ "_id" : ObjectId ("56cb0139b6d75ec12f75d3b5"), "nome" : "Felipe", "data_nascimento" : ISO Date("1994-03-26T03:00:00Z"), "curso" : { "nome" : "Sistemas de informação" }, "notas" : [10, 9, 4.5], "habilidades" : [{ "nome" : "inglês", "nível" : "avançado" }, { "nome" : "taekwondo", "nível" : "básico"} ] }

@@ -1,0 +1,12 @@
+db.alunos.find({
+    $or : [
+        {"curso.nome" : "Sistemas de informação"},
+        {"curso.nome" : "Engenharia Química"}    
+    ]
+})
+
+db.alunos.find({
+    "curso.nome" : {
+        $in : ["Sistema de informação", "Engenharia Química"]
+        }
+})

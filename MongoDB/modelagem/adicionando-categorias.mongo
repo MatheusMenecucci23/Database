@@ -1,0 +1,15 @@
+db.artigos.updateOne({
+    slug: "projeto-caelum-nas-faculdades"
+}, {
+    $set: {
+        categorias: ["Inovação"]
+    }
+})
+
+
+
+db.artigos.createIndex({ categorias: 1 });
+
+db.artigos.getIndexes(); 
+
+db.artigos.createIndex({ slug: 1}, { unique:true })

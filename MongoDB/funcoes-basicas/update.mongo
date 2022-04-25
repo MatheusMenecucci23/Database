@@ -1,0 +1,19 @@
+db.alunos.update(
+    {"curso.nome" : "Sistemas de informação"},
+    {
+        $set : 
+           {"curso.nome" : "Sistemas de Informação"}  
+        }, 
+      {
+        multi : true 
+      }
+)
+
+db.alunos.update(
+    {"_id" : ObjectId("56cb0002b6d75ec12f75d3b5")},
+    {
+        $push : {
+            notas : 8.5
+        }    
+    }
+)
