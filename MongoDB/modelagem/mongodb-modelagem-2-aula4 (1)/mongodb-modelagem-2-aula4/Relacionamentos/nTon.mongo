@@ -1,0 +1,15 @@
+db.lojas.aggregate([{
+    $match: {
+        nome: "Apple Store"
+    }
+},{
+    $lookup: {
+        from: "produtos",
+        localField: "produtos",
+        foreignField: "_id",
+        as: "listaProdutos"
+    }
+}]).pretty();
+
+//localField: field from origin table
+//foreignField: field from table you are going to fetch
