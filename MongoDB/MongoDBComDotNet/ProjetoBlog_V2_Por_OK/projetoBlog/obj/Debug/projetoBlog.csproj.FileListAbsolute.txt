@@ -1,0 +1,869 @@
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\projetoBlog\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 A\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 B\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 C\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_Versao2 D\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Bson.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Driver.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Bson.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Driver.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V3_Por_OK\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.csprojResolveAssemblyReference.cache
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\csc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\vbc.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.dll.config
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Owin.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Helpers.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Mvc.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Optimization.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\WebGrease.dll
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Helpers.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Mvc.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Optimization.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VVila\Google Drive\Surface\Docs\mongodb\CURSO_ONLINE\ProjetoBlog\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\csc.exe
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\vbc.exe
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\libzstd.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\snappy32.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\snappy64.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\libsnappy64.so
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\libzstd.so
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\libsnappy64.dylib
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\libzstd.dylib
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\mongocrypt.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.dll.config
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\projetoBlog.pdb
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Win32.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\netstandard.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.AppContext.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Collections.Concurrent.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Collections.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Collections.NonGeneric.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Collections.Specialized.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ComponentModel.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ComponentModel.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ComponentModel.TypeConverter.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Console.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Data.Common.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.Contracts.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.Debug.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.Process.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.StackTrace.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.Tools.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.TraceSource.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Diagnostics.Tracing.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Drawing.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Dynamic.Runtime.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Globalization.Calendars.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Globalization.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Globalization.Extensions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.Compression.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.Compression.ZipFile.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.FileSystem.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.FileSystem.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.FileSystem.Watcher.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.IsolatedStorage.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.MemoryMappedFiles.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.Pipes.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Linq.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Linq.Expressions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Linq.Parallel.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Linq.Queryable.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Http.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.NameResolution.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.NetworkInformation.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Ping.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Requests.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Security.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.Sockets.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.WebHeaderCollection.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.WebSockets.Client.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Net.WebSockets.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ObjectModel.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Reflection.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Reflection.Extensions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Reflection.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Resources.Reader.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Resources.ResourceManager.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Resources.Writer.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Extensions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Handles.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.InteropServices.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Numerics.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Serialization.Formatters.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Serialization.Json.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Serialization.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.Serialization.Xml.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Claims.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Cryptography.Algorithms.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Cryptography.Csp.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Cryptography.Encoding.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Cryptography.Primitives.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.Principal.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Security.SecureString.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Text.Encoding.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Text.Encoding.Extensions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Text.RegularExpressions.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.Overlapped.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.Tasks.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.Tasks.Parallel.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.Thread.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.ThreadPool.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Threading.Timer.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.ValueTuple.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.ReaderWriter.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.XDocument.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.XmlDocument.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.XmlSerializer.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.XPath.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Xml.XPath.XDocument.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Antlr3.Runtime.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\DnsClient.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Bson.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Driver.Core.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Driver.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Libmongocrypt.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Newtonsoft.Json.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Owin.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\SharpCompress.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Buffers.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Memory.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Numerics.Vectors.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Text.Encoding.CodePages.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Helpers.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Mvc.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Optimization.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Razor.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\WebGrease.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\DnsClient.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Bson.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Driver.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\MongoDB.Driver.Core.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Buffers.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Memory.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Numerics.Vectors.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Text.Encoding.CodePages.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Helpers.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Mvc.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Optimization.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.Razor.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\System.Web.WebPages.Razor.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Antlr3.Runtime.pdb
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Newtonsoft.Json.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\EntityFramework.SqlServer.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.csproj.AssemblyReference.cache
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.csproj.CoreCompileInputs.cache
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.csproj.CopyComplete
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.dll
+C:\Alura\bdd\MongoDB\MongoDBComDotNet\ProjetoBlog_V2_Por_OK\projetoBlog\obj\Debug\projetoBlog.pdb
