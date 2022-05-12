@@ -4915,11 +4915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AS-Informatica\\source\\repos\\RedisWithDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
+      "projectUniqueName": "C:\\Alura\\bdd\\Redis\\PocRedisDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
       "projectName": "RedisWithDotNet",
-      "projectPath": "C:\\Users\\AS-Informatica\\source\\repos\\RedisWithDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
+      "projectPath": "C:\\Alura\\bdd\\Redis\\PocRedisDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
       "packagesPath": "C:\\Users\\AS-Informatica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AS-Informatica\\source\\repos\\RedisWithDotNet\\RedisWithDotNet\\obj\\",
+      "outputPath": "C:\\Alura\\bdd\\Redis\\PocRedisDotNet\\RedisWithDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AS-Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",

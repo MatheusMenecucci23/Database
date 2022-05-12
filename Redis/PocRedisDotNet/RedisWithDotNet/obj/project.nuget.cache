@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zasS4nlVR+vexb8fbnDszPVg2gvtFx7i5X0Qcdr/PUSRUWQZkF04HTlZ3MCqh6OY474RzceuJAvRUdf8DejqCw==",
+  "dgSpecHash": "8VVI75zIUd4Zz9ov22j4Qfsa+YCpB+M/NxHpV0lI35eFNpDaa55AofJb3MkKeynzL8kzKPxpr/KTWvokMhMAKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AS-Informatica\\source\\repos\\RedisWithDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
+  "projectFilePath": "C:\\Alura\\bdd\\Redis\\PocRedisDotNet\\RedisWithDotNet\\RedisWithDotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\AS-Informatica\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
